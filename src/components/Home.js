@@ -1,4 +1,3 @@
-// Home.jsx
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import "../App.css";
@@ -11,7 +10,7 @@ const Home = () => {
       <div className="home-container">
         <h1>Snapthiev</h1>
         <p className="welcome-text">
-          Welcome to thiever' photobooth! This is your personal photobooth at home.
+          Welcome to snapthiev photobooth! This is your personal photobooth at home.
         </p>
 
         <div className="image-container">
