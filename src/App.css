@@ -482,7 +482,7 @@ button {
 /* Welcome.css */
 .welcome-page {
   min-height: 100vh;
-  padding: 80px 20px 20px;
+  padding: 40px 20px 20px;
   background: radial-gradient(
     circle at center,
     rgba(255, 153, 178, 0.3) 0%,
@@ -608,7 +608,7 @@ button {
 
 @media screen and (max-width: 480px) {
   .welcome-page {
-    padding-top: 120px;
+    padding-top: 60px;
   }
 
   .welcome-content {
@@ -773,7 +773,7 @@ footer a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 80px 20px 20px 20px; /* Added top padding for navbar */
+  padding: 40px 20px 20px 20px;
 }
 
 .home-container {
@@ -886,7 +886,7 @@ footer a:hover {
 
 @media screen and (max-width: 480px) {
   .home-page {
-    padding-top: 120px; /* Increased padding for stacked navbar */
+    padding-top: 60px; /* Increased padding for stacked navbar */
   }
 
   .home-container h1 {
