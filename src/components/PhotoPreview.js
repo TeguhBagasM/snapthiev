@@ -346,7 +346,7 @@ const PhotoPreview = ({ capturedImages }) => {
           <button onClick={() => navigate("/photobooth")}>🔄 Take New Photos</button>
         </div>
 
-        <div className="email-section">
+        {/* <div className="email-section">
           <input
             type="email"
             placeholder="Enter your email"
@@ -355,7 +355,7 @@ const PhotoPreview = ({ capturedImages }) => {
           />
           <button onClick={sendPhotoStripToEmail}>Send to Email</button>
           <p className="status-message">{status}</p>
-        </div>
+        </div> */}
       </div>
     </div>
   );
