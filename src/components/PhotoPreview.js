@@ -271,7 +271,7 @@ const PhotoPreview = ({ capturedImages }) => {
     }
 
     if (!emailRegex.test(email)) {
-      setStatus("Please enter a valid email format. Example: name@emai.com");
+      setStatus("Please enter a valid email format. Example: name@email.com");
       return;
     }
 

@@ -1,7 +1,3 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 * {
   margin: 0;
   padding: 0;
@@ -902,7 +898,7 @@ footer a:hover {
     padding: 10px 30px;
     font-size: 1.1rem;
   }
-  /* .preview-side {
+  .preview-side {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
@@ -910,7 +906,7 @@ footer a:hover {
     margin-top: 20px;
     width: 100%;
     max-width: 500px;
-  } */
+  }
 
   .side-preview {
     width: 110px;
