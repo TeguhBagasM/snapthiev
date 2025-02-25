@@ -12377,7 +12377,7 @@
                     (r.fillStyle = "rgba(0, 0, 0, 0.5)"),
                     (r.font = "12px Arial"),
                     (r.textAlign = "center"),
-                    r.fillText("\xa9 2025 AW", e.width - u, 1370);
+                    r.fillText("\xa9 2025 ST", e.width - u, 1370);
                 }
               });
           });

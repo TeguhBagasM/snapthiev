@@ -228,7 +228,7 @@ const PhotoPreview = ({ capturedImages }) => {
           ctx.font = "12px Arial";
           ctx.textAlign = "center";
 
-          ctx.fillText("© 2025 AW", canvas.width - borderSize, totalHeight - borderSize / 2);
+          ctx.fillText("© 2025 ST", canvas.width - borderSize, totalHeight - borderSize / 2);
         }
       };
     });

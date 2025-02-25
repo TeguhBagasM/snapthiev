@@ -146,7 +146,7 @@ body {
 }
 
 body {
-  background: #ffe6eb;
+  background: #fff;
   margin: 0;
   padding: 0;
 }
@@ -178,7 +178,7 @@ button {
   width: 100%;
   margin-top: 40px;
 
-  background-color: #ffe6eb;
+  background-color: #fff;
 }
 
 .photo-preview canvas {
@@ -285,12 +285,12 @@ button {
 .welcome-page {
   min-height: 100vh;
   padding: 40px 20px 20px;
-  background: radial-gradient(
+  /* background: radial-gradient(
     circle at center,
     rgba(255, 153, 178, 0.3) 0%,
     rgba(255, 240, 245, 0.8) 50%,
     rgba(255, 250, 250, 0.95) 100%
-  );
+  ); */
 }
 
 .welcome-container {
