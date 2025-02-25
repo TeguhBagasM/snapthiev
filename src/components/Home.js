@@ -23,9 +23,9 @@ const Home = () => {
 
         <footer className="home-footer">
           <p>
-            made by{" "}
+            made with ❤ by{" "}
             <a href="https://thieverse.vercel.app" target="_blank" rel="noopener noreferrer">
-              thieverse
+              Thiever
             </a>
           </p>
           <p className="copyright">© 2025 thiever. All Rights Reserved.</p>
